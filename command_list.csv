@@ -1,0 +1,133 @@
+    1  help
+    2  man
+    3  man ls
+    4  help ls
+    5  help
+    6  man ls
+    7  ls
+    8  cls
+    9  clear
+   10  dekstor % cd
+   11  % dekstor cd
+   12  ~ %5
+   13  ~ %
+   14  / % _
+   15  clear
+   16  desktop % cd test
+   17  desktop % cd testclear
+   18  clear
+   19  ~ % cd desktop
+   20  desktop % pwd
+   21  cd ..
+   22  mkdir lesson
+   23  ls
+   24  Dekstop %
+   25  Dekstop % cd 
+   26  Dekstop % mkdir Lesson
+   27  desktop % mkdir lesson
+   28  desktop %
+   29  desktop % cd
+   30  desktop % 
+   31  cd
+   32  cd % desktop
+   33  cd desktop
+   34  mkdir "Lesson"
+   35  le
+   36  clear
+   37  touch screenchot2.jpg
+   38  touch screenchot_2.jpg
+   39  ping google.com
+   40  ping -t google.com
+   41  cd desktop
+   42  git config --global user.name "Valerii Kuzmenko"
+   43  git config --global user.email sky.valerii@gmail.com
+   44  git clone https://github.com/SkyValerii/HomeWork9.git
+   45  cd HomeWork9/
+   46  git status
+   47  touch new.txt
+   48  git status
+   49  gid add new.txt
+   50  git status
+   51  git add new.txt
+   52  git status
+   53  git commit -m "New file created"
+   54  git status
+   55  git log
+   56  git branch
+   57  git config --global user.name "Valerii Kuzmenko"
+   58  git config --global user.email sky.valerii@gmail.com
+   59  git clone 200~https://github.com/SkyValerii/HW10.git
+   60  git clone https://github.com/SkyValerii/HW10.git
+   61  git add HW10
+   62  cd HW10
+   63  git config --global user.name "Valerii Kuzmenko"
+   64  git config --global user.email sky.valerii@gmail.com
+   65  git clone https://github.com/SkyValerii/HM_10.git
+   66  git add HM_10
+   67  cd HM_10
+   68  touch text_ignore.txt
+   69  nano .gitignore
+   70  nano .gitignore
+   71  nano .gitignore
+   72  git status
+   73  git add .gitignore
+   74  git status
+   75  commit
+   76  git commit -m "1 task"
+   77  git status
+   78* mkdir main_test.t
+   79  git add mkdir main_test.tx
+   80  git add main_test.tx
+   81  git add main_test.txt
+   82  git status
+   83  git commit -m "2 task"
+   84  git branch develop
+   85  git checkout -b branch_ develop
+   86  git checkout -b develop
+   87  git checkout main
+   88  git checkout developed
+   89  git checkout develop
+   90  mkdir develop_test.txt
+   91  touch develop_test.txt
+   92  gid add develop_test.txt
+   93  git add develop_test.txt
+   94  git status
+   95  git commit "3 task1  " 
+   96  nano develop_test.txt
+   97  nano develop_test.txt
+   98  git status
+   99  git add develop_test.txt
+  100  git status
+  101  git commit "3 task2" 
+  102  git checkout main
+  103  git merge develop
+  104  git log
+  105  command_list.csv
+  106  git bash command_list.csv
+  107  git command_list.csv
+  108  git push commabd_list.csv
+  109  git push command_list.csv
+  110  git push history command_list.csv
+  111  git push "command_list.csv"
+  112  git bash "command_list.csv"
+  113  git push command_list.csv
+  114  git push
+  115  git push command_list.csv
+  116  git push
+  117  git push
+  118  clear
+  119  git push
+  120  touch command_list.csv
+  121  git push
+  122  git add command_list.csv 
+  123  git log
+  124  git status
+  125  git commit "5 Task"
+  126  git commit "5task"
+  127  git commit 5 Task
+  128  git commit "5 Task"
+  129  git bash
+  130  git bash command_list.csv
+  131  git push command_list.csv
+  132  git push
+  133  history > command_list.csv
